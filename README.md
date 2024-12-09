@@ -1,4 +1,4 @@
-# Abinash
+# Abinash Shrestha
 
 > Student 🧑‍🎓| Bachelors in Information Management | Software Developer | 
 
