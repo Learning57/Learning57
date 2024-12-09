@@ -1,21 +1,18 @@
-# Jerome Hardaway
+# Abinash
 
-> Veteran 🎖️ | Executive Director @ Vets Who Code | Software Engineer | Tech Education Innovator
+> Student 🧑‍🎓| Bachelors in Information Management | Software Developer | 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/jeromehardaway)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:jerome@vetswhocode.io)
 [![Organization](https://img.shields.io/badge/VetsWhoCode-Website-green)](https://vets-who-code.github.io/)
 
-## 🎯 Mission
-Transforming veterans' lives through code. Leading Vets Who Code to empower military veterans with modern software engineering skills and creating pathways to tech careers.
 
 ## 🛠️ Technical Stack
 ```javascript
 const skills = {
-    languages: ['JavaScript', 'Python', 'TypeScript', 'Kotlin'],
-    frameworks: ['React', 'Next.js', 'Node.js', 'FastAPI', 'Ktor'],
-    platforms: ['GitHub', 'Docker', 'Azure', 'Vercel', 'Cloudinary'],
-    ai: ['OpenAI', 'Machine Learning', 'Data Analysis']
+    languages: ['JavaScript', 'TypeScript'],
+    frameworks: ['React', 'Node.js',],
+    platforms: ['GitHub', 'Vercel',],
 };
 ```
 
